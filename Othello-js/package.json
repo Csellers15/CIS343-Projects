@@ -1,0 +1,24 @@
+{
+  "name": "Othello-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "othello.js",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Csellers15/Othello-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Csellers15/Othello-js/issues"
+  },
+  "homepage": "https://github.com/Csellers15/Othello-js#readme"
+}
